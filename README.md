@@ -2,9 +2,9 @@ Here's a refined brief overview of your Finance Dashboard App:
 
 ---
 
-**Finance Dashboard App Overview**
+** FinTel  - Finance Dashboard App Overview**
 
-This Finance Dashboard App is a robust and feature-rich application designed to provide comprehensive financial insights through a dynamic and interactive interface. Built using the MERN stack, the application integrates cutting-edge technologies and tools for a seamless user experience.
+This FinTel is a robust and feature-rich application designed to provide comprehensive financial insights through a dynamic and interactive interface. Built using the MERN stack, the application integrates cutting-edge technologies and tools for a seamless user experience.
 
 **Frontend:**
 - **Vite:** For fast and efficient development.
