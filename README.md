@@ -24,7 +24,7 @@ This FinTel is a robust and feature-rich application designed to provide compreh
 
 **Deployment:**
 - **Fully Integrated:** The application is complete and ready for deployment, offering real-time financial analysis and predictions.
-
-**This application is designed to be a powerful tool for financial analysis, providing users with detailed insights and predictions to inform their financial decisions.**
-**Here the link to the video for an overview oof this application - https://drive.google.com/file/d/1t_7tHwkmux9Ifruxpzvda81A25byMbIv/view?usp=drive_link**
+  
+- **This application is designed to be a powerful tool for financial analysis, providing users with detailed insights and predictions to inform their financial decisions.**
+- **Here the link to the video for an overview oof this application - https://drive.google.com/file/d/1t_7tHwkmux9Ifruxpzvda81A25byMbIv/view?usp=drive_link**
 ---
